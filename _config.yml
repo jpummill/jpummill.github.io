@@ -1,7 +1,7 @@
 # Site settings
-title: Rob Hinds
-twitter_username: rob_hinds
-name: Rob Hinds
+title: jpummill
+twitter_username: jpummill
+name: John Pummill
 
 # Build settings
 markdown: kramdown
@@ -12,13 +12,15 @@ primarylinks:
  - title: Blog
    url: http://automateddeveloper.blogspot.com/
  - title: GitHub
-   url: https://github.com/robhinds
+   url: https://github.com/jpummill
  - title: StackOverflow
    url: http://stackoverflow.com/users/258813/rhinds
  - title: DZone
    url: https://dzone.com/users/899489/rhinds.html
  - title: LinkedIn
    url: https://www.linkedin.com/pub/rob-hinds/21/361/3b1
+ - title: LinkedIn2
+   url: https://www.linkedin.com/in/johnpummill/
 
 #Any buzzword skills you want to include
 skills:
