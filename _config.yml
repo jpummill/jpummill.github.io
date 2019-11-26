@@ -9,69 +9,67 @@ markdown: kramdown
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
- - title: Blog
-   url: http://automateddeveloper.blogspot.com/
+# - title: Blog
+#   url: http://automateddeveloper.blogspot.com/
  - title: GitHub
    url: https://github.com/jpummill
- - title: StackOverflow
-   url: http://stackoverflow.com/users/258813/rhinds
- - title: DZone
-   url: https://dzone.com/users/899489/rhinds.html
+# - title: StackOverflow
+#   url: http://stackoverflow.com/users/258813/rhinds
+# - title: DZone
+#   url: https://dzone.com/users/899489/rhinds.html
  - title: LinkedIn
-   url: https://www.linkedin.com/pub/rob-hinds/21/361/3b1
- - title: LinkedIn2
    url: https://www.linkedin.com/in/johnpummill/
 
 #Any buzzword skills you want to include
 skills:
- - Scala
- - Akka-http
- - Microservices
- - Slick
- - Product management
- - API design
- - Groovy
- - Spring MVC/Boot/Social
- - Gradle
+ - Veritas NetBackup/InfoScale
+ - AWS
+ - VMware
+ - C#
+ - Python
  - Java
  - JPA
  - SQL
- - REST
- - Technical Architecture
- - Machine learning
+
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
 
 #Work experience is required
 roles:
- - title: CTO
-   start: 2017
+ - title: Global Technical Account Manager
+   start: 2015
    end: Ongoing
-   employer: Basement Crowd
+   employer: Veritas Technologies LLC
    description: Legaltech startup producing a range of innovative legal products. Products include <a href="https://www.juriosity.com" taget="_blank">Juriosity</a>, <a href="https://www.fromcounsel.com" taget="_blank">FromCounsel</a>, <a href="https://www.sparqa.com" taget="_blank">Sparqa</a>.
- - title: Senior Engineer
-   start: 2016
-   end: 2017
-   employer: Emerald Street Ventures
+ - title: Global Technical Account Manager
+   start: 2013
+   end: 2015
+   employer: Symantec Software
    description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
- - title: Senior Engineer
-   start: 2012
-   end: 2016
-   employer: Covestor
-   description: Covestor is an investment marketplace startup that was successfully acquired by Interactive Brokers in 2015. <br/> Working as a senior engineer, I worked closely with the CTO and across the full-stack, I was involved in all aspects of the technology including the website and back-end services.
- - title: Associate Manager
+ - title: Principal Systems Engineer
    start: 2005
-   end: 2012
-   employer: Accenture
+   end: 2013
+   employer: Symantec Software
+   description: Covestor is an investment marketplace startup that was successfully acquired by Interactive Brokers in 2015. <br/> Working as a senior engineer, I worked closely with the CTO and across the full-stack, I was involved in all aspects of the technology including the website and back-end services.
+ - title: Technical Instructor
+   start: 2000
+   end: 2005
+   employer: Veritas Software
+   description: Working on a range of functional and technical roles, primarily working on client sites in Financial Services in London and Europe.
+ - title: Technical Instructor
+   start: 1995
+   end: 2000
+   employer: Informix Software
    description: Working on a range of functional and technical roles, primarily working on client sites in Financial Services in London and Europe.
 
 #Education is required
 education:
  - level: Bachelor of Science (B.Sc.)
-   date: 2003
-   subject: Artificial Intelligence and Computer Science
-   school: University of Birmingham
+   date: 1992
+   subject: Computer Information Systems
+   school: University of Arkansas
+   
 
 #This section is optional (as is the image link below)
 coursera:
@@ -117,6 +115,7 @@ stackoverflow:
    flairimageurl: http://stackoverflow.com/users/flair/258813.png
 
 intro: |
+  Experienced Technical Account Manager with a demonstrated history of working in the computer software industry. I have a broad understanding of a wide range of technologies including Cloud (AWS Certified Solutions Architect), virtualization, database administration, security, system administration (focused on infrastructure availability and software defined storage), and data protection. <br/><br/>
   I am an engineer with 15 years experience working in technology. I have primarily worked on the JVM, but have worked across a broad range of technologies thereon: Java, Groovy, Android, Coldfusion and most recently Scala. As well as spending a reasonable amount of time building applications for the web, which has given me an exposure to a range of javascript technologies over the years, through jQuery, extjs, knockout, backbone and most recently to React. <br/><br/>
   I enjoy building interesting products, with a good Product Management focus and a good emphasis on good engineering principles and clean code (having worked across differing languages on the JVM, I recognise that good code is contextual).<br/><br/>
   I have worked in large scale consultancy roles across Europe as well as a mix of startup experience (including one that was acquired) and I am currently the Chief Technology Officer at a legal-tech startup called <a href="https://www.basementcrowd.com" target="_blank">Basement Crowd</a> where we are building innovative products to serve the legal industry.
